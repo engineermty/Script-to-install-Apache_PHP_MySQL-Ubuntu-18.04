@@ -1,4 +1,5 @@
 This script will install the following packages: 
+
 - Web Server: Apache2 and modues required
 - Hypertext Preprocessor: PHP v7.4  and modues required
 - Database engine: MySQL v5.7 and modues required
