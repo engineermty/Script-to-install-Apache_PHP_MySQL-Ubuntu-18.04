@@ -58,6 +58,6 @@ Please follow next steps\
 Did you was able to see the phpinfo page? Y\
 
 
-The evaluation of Apache Web Server + PHP was successfull.\
+<span style="color: green"> Some green text </span>The evaluation of Apache Web Server + PHP was successfull.\
 [NOTE:] PHP Info test page was deleted for security best practices.\
 Congratulations this script was completed succesfully!\
