@@ -1,3 +1,15 @@
+ ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  
+▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌ 
+▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀  
+▐░▌       ▐░▌▐░▌       ▐░▌▐░▌           
+▐░█▄▄▄▄▄▄▄█░▌▐░▌   ▄   ▐░▌▐░█▄▄▄▄▄▄▄▄▄  
+▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌ 
+▐░█▀▀▀▀▀▀▀█░▌▐░▌ ▐░▌░▌ ▐░▌ ▀▀▀▀▀▀▀▀▀█░▌ 
+▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌          ▐░▌ 
+▐░▌       ▐░▌▐░▌░▌   ▐░▐░▌ ▄▄▄▄▄▄▄▄▄█░▌ 
+▐░▌       ▐░▌▐░░▌     ▐░░▌▐░░░░░░░░░░░▌ 
+ ▀         ▀  ▀▀       ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  
+
 This script will install the following packages: 
 - Web Server: Apache2 and modues required
 - Hypertext Preprocessor: PHP v7.4  and modues required
@@ -36,7 +48,7 @@ Do you want to run a test to check if the installation was successful.
 
 Creating a php test file...
 Please follow next steps
-1. Copy the following web address: http://X.X.X.X/index.php
+1. Copy the following web address: http://54.156.97.202/index.php
 2. Open a new tab in your prefered web browser (Firefox or Chrome)
 3. Paste the web address and press enter
 [ NOTE: PHP Info page should be displayed]
