@@ -1,5 +1,3 @@
-# scripts
-
 This script help to automatize the process of install for Apache2 + PHP + MySQL + SLL + Let's Encrypt.
 
  ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  
