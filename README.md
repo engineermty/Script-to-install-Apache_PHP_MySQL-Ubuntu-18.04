@@ -1,17 +1,3 @@
-This script help to automatize the process of install for Apache2 + PHP + MySQL + SLL + Let's Encrypt.
-
- ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  
-▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌ 
-▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀  
-▐░▌       ▐░▌▐░▌       ▐░▌▐░▌           
-▐░█▄▄▄▄▄▄▄█░▌▐░▌   ▄   ▐░▌▐░█▄▄▄▄▄▄▄▄▄  
-▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌ 
-▐░█▀▀▀▀▀▀▀█░▌▐░▌ ▐░▌░▌ ▐░▌ ▀▀▀▀▀▀▀▀▀█░▌ 
-▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌          ▐░▌ 
-▐░▌       ▐░▌▐░▌░▌   ▐░▐░▌ ▄▄▄▄▄▄▄▄▄█░▌ 
-▐░▌       ▐░▌▐░░▌     ▐░░▌▐░░░░░░░░░░░▌ 
- ▀         ▀  ▀▀       ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  
-
 This script will install the following packages: 
 - Web Server: Apache2 and modues required
 - Hypertext Preprocessor: PHP v7.4  and modues required
