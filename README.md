@@ -1,3 +1,7 @@
+# Ubuntu - Script to install Apache + PHP + MySQL
+## Recommended for fresh environments 
+
+
 ```bash
   ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄
  ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
@@ -62,3 +66,31 @@ The evaluation of Apache Web Server + PHP was successfull.
 [NOTE:] PHP Info test page was deleted for security best practices.
 Congratulations this script was completed succesfully!
 ```
+
+## Instructions:
+
+### Download the script
+```bash
+
+[ec2-user@localhost]$ wget https://raw.githubusercontent.com/engineermty/Script-to-install-Apache_PHP_MySQL-Ubuntu-18.04/main/install.sh -O install.sh
+--2020-11-25 23:51:47--  https://raw.githubusercontent.com/engineermty/Script-to-install-Apache_PHP_MySQL-Ubuntu-18.04/main/install.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.200.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.200.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10674 (10K) [text/plain]
+Saving to: ‘install.sh’
+
+install.sh                  100%[===========================================>]  10.42K  --.-KB/s    in 0s      
+
+2020-11-25 23:51:47 (62.1 MB/s) - ‘install.sh’ saved [10674/10674]
+
+[ec2-user@localhost]$ ls -lh
+total 12K
+-rw-r--r-- 1 root root 11K Nov 25 23:59 [install.sh]
+```
+
+### Running the script
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+https://raw.githubusercontent.com/engineermty/Script-to-install-Apache_PHP_MySQL-Ubuntu-18.04/main/install.sh
